@@ -1,2 +1,2 @@
-<head> P3471 WORKSPACE </head>
+<head>P3471 WORKSPACE</head>
 <body> Hello World! </body>
