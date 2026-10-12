@@ -1,2 +1,0 @@
-# gitagriphub.github.io
-practice
